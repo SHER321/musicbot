@@ -3,7 +3,7 @@ import logging
 import json
 import math
 
-from aiotg import Bot
+from aiotg import Bot, Chat
 from database import db, text_search
 
 greeting = """
