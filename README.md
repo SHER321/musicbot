@@ -7,6 +7,9 @@ How does it work? You simply send audio file (from Telegram Desktop, Web or OSX)
 
 Go ahead and [try it](https://telegram.me/MusicCatalogBot)!
 
+#Easy Way to Deploy
+
+[![Depl[![Deployoy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 **UPDATE**: The bot is blocked on iOS due to Apple complaints, but you still can build your own from source or a docker image and use it privatly.
 
