@@ -9,7 +9,7 @@ Go ahead and [try it](https://telegram.me/MusicCatalogBot)!
 
 #Easy Way to Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHER321/MUSIC-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHER321/MUSICBOT)
 
 **UPDATE**: The bot is blocked on iOS due to Apple complaints, but you still can build your own from source or a docker image and use it privatly.
 
